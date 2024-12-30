@@ -5,7 +5,7 @@ An interactive web application that allows users to search for GitHub profiles b
 ---
 
 ## **Live Demo**
-🔗 [GitHub Profile Explorer on Vercel](#)
+🔗 [Try it now](https://dev-detective-github-by-lokesh.vercel.app/)
 
 ---
 
