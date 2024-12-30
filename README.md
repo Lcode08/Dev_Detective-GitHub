@@ -38,3 +38,14 @@ An interactive web application that allows users to search for GitHub profiles b
 
 I am a final-year **B.Tech** student, graduating in **2025**, and passionate about web development. This project demonstrates my ability to build responsive web applications and work with APIs effectively.
 
+---
+
+## **Contact**
+If you have any questions or feedback, feel free to contact me via email:
+
+Lokesh Patil: lokeshb.p.2025@gmail.com
+
+---
+
+## **License**
+This project is open-source under the MIT License.
