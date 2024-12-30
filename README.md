@@ -31,7 +31,7 @@ An interactive web application that allows users to search for GitHub profiles b
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/<your-username>/github-profile-explorer.git
+git clone https://github.com/Lcode08/github-profile-explorer.git
 ```
 
 Open the project folder:
@@ -48,7 +48,7 @@ Open `index.html` in your browser to view the project.
 
 1. Visit the live demo link above.
 2. Enter a GitHub username in the search bar.
-3. Click the **Search** button to view profile information.
+3. Click the **Search** button/ Press **Enter** to view profile information.
 
 ---
 
